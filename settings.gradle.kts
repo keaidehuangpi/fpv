@@ -1,1 +1,1 @@
-rootProject.name = "fix-protocol-versionn"
+rootProject.name = "fix-protocol-version"
