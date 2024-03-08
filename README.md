@@ -140,7 +140,7 @@ public class Example {
 
 ## 相关项目
 
-* https://github.com/RomiChan/protocol-versions 协议信息同步来源111
+* https://github.com/RomiChan/protocol-versions 协议信息同步来源
 * https://github.com/LaoLittle/t544_enc 内置 T544 编码器
 * https://github.com/fuqiuluo/unidbg-fetch-qsign
 * https://github.com/kiliokuara/magic-signer-guide Docker 镜像, 解决各种 QQ 机器人框架的 sso sign 和 tlv 加密问题。
